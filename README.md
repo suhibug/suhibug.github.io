@@ -6,7 +6,7 @@ Personal portfolio of Suhitha Lakkunda Rathnakara: the projects I've built, my v
 
 ## What's on the site
 
-- **Featured projects**: Trail Prep (my free hike planner), getting ASU found in AI search, AI thumbnails for YouTube, the Sun Devil Hotline podcast, and more
+- **Featured projects**: hikepace (my free hike planner, formerly Trail Prep), getting ASU found in AI search, AI thumbnails for YouTube, the Sun Devil Hotline podcast, and more
 - **Strategy and research work**: audience personas and a full-funnel plan, a competitive analysis of 10 universities, a Markstrat B2B simulation, Ivy (an EdTech venture), the digital music industry, SafeAlert's go-to-market plan
 - **Media and tech experiments**: 360° video, smell in digital media, telepresence avatars for live performance, teaching a computer to see app screens, air instruments
 - **Video work**, **experience**, and a **contact** section
